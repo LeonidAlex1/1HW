@@ -1,7 +1,9 @@
-#ifndef RECTANGLE_H
-#define RECTANGLE_H
+#pragma once
+
 
 #include "Point.h"
+
+using namespace std;
 
 class Rectangle {
 private:
@@ -21,4 +23,3 @@ public:
     }
 };
 
-#endif

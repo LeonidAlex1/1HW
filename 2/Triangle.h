@@ -1,7 +1,8 @@
-#ifndef TRIANGLE_H
-#define TRIANGLE_H
+#pragma once
 
 #include "Point.h"
+
+using namespace std;
 
 class Triangle {
 private:
@@ -18,4 +19,3 @@ public:
     }
 };
 
-#endif

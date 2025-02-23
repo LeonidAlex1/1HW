@@ -1,7 +1,9 @@
-#ifndef CIRCLE_H
-#define CIRCLE_H
+#pragma once
+
 
 #include "Point.h"
+
+using namespace std;
 
 class Circle {
 private:
@@ -18,4 +20,3 @@ public:
     }
 };
 
-#endif
